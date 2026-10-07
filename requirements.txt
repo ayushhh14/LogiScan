@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pydantic
+pytesseract
+Pillow
+PyMuPDF
+SQLAlchemy
+streamlit
